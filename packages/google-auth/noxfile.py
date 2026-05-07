@@ -134,7 +134,6 @@ def mypy(session):
         "mypy",
         "types-certifi",
         "types-freezegun",
-        "types-pyOpenSSL",
         "types-requests",
         "types-setuptools",
         "types-mock",
